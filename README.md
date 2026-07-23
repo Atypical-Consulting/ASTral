@@ -20,6 +20,33 @@ Precision context beats brute-force context.
 
 # ASTral
 
+<!-- portfolio-toc:start -->
+
+## Table of Contents
+
+- [Cut code-reading token costs by up to **99%**](#cut-code-reading-token-costs-by-up-to-99)
+- [Proof: Token savings in the wild](#proof-token-savings-in-the-wild)
+- [Why agents need this](#why-agents-need-this)
+- [How it works](#how-it-works)
+- [Usage Examples](#usage-examples)
+- [Tools (11)](#tools-11)
+- [Supported Languages](#supported-languages)
+- [Security](#security)
+- [Technology Stack](#technology-stack)
+- [Best Use Cases](#best-use-cases)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Advanced Features](#advanced-features)
+- [Not Intended For](#not-intended-for)
+- [Documentation](#documentation)
+- [Origin and Attribution](#origin-and-attribution)
+- [License (Dual Use)](#license-dual-use)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+
+<!-- portfolio-toc:end -->
+
+
 ### Structured retrieval for serious AI agents
 
 ![License](https://img.shields.io/badge/license-dual--use-blue)
