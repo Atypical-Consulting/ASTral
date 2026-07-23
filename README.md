@@ -351,6 +351,18 @@ For commercial licensing inquiries, contact: j@gravelle.us | https://j.gravelle.
 
 ---
 
+## Roadmap
+
+- [ ] Add more tree-sitter language grammars (e.g. Zig, Scala, Lua)
+- [ ] Ship a one-click VS Code / JetBrains extension on top of the existing `index_folder`/`index_repo` MCP tools
+- [ ] Add semantic (embedding-based) search alongside exact symbol search
+- [ ] Expand `ASTRAL_WATCH` file-watching to remote/CI-triggered re-indexing
+- [ ] Publish prebuilt binaries for more platforms alongside the `.NET` global tool and `install.sh`
+
+Track progress and propose ideas via the [open issues](https://github.com/Atypical-Consulting/ASTral/issues).
+
+---
+
 <!-- portfolio-sections:start -->
 
 ## Contributing
