@@ -1,3 +1,5 @@
+![ASTral banner](.github/banner.png)
+
 ## Cut code-reading token costs by up to **99%**
 
 Most AI agents explore repositories the expensive way:
