@@ -348,3 +348,17 @@ This repository is **free for non-commercial use** under the original dual-use l
 - Modifications: Copyright (c) 2026 Philippe Matray / Atypical Consulting
 
 For commercial licensing inquiries, contact: j@gravelle.us | https://j.gravelle.us
+
+---
+
+<!-- portfolio-sections:start -->
+
+## Contributing
+
+Contributions are welcome. Open an issue first to discuss any significant change.
+
+1. Fork the repository and create your branch (`git checkout -b feat/my-feature`)
+2. Commit your changes (`git commit -m 'feat: ...'`)
+3. Push the branch and open a Pull Request
+
+<!-- portfolio-sections:end -->
