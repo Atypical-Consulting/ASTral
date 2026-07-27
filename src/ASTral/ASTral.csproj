@@ -8,7 +8,12 @@
   <PropertyGroup>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>astral</ToolCommandName>
-    <PackageId>ASTral</PackageId>
+    <!-- The bare `ASTral` id belongs to another author on nuget.org (owner `ijsgaus`,
+         15 versions, latest 0.4.0-beta5). It is not ours to publish to, and no Trusted
+         Publishing policy can ever be granted for it. Only the DISTRIBUTION identity is
+         prefixed: RootNamespace, assembly name and `astral` — the command users actually
+         type — are unchanged. -->
+    <PackageId>Atypical.ASTral</PackageId>
     <Version>1.0.0</Version>
     <Description>MCP server that indexes codebases using tree-sitter for AI agent symbol retrieval</Description>
     <Authors>ASTral Contributors</Authors>
